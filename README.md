@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirupama1009&label=Profile%20views&color=0e75b6&style=flat" alt="nirupama1009" /> </p>
 
-- 🌱 I’m currently learning **Python,Django,Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Python,Microsoft Power BI , Microsoft Excel, SQL, Data Visualization, Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **nirupamaravi353@gmail.com**
 
